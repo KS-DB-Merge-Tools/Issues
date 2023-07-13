@@ -37,7 +37,7 @@ where:
 
 [Here](https://github.com/KS-DB-Merge-Tools/Issues/issues/1) is an example of issue which has title according to these rules:
 
-[S] Pro TSD: Merge unexpected error, invalid cast DBNull to ITableConstraint
+_[S] Pro TSD: Merge unexpected error, invalid cast DBNull to ITableConstraint_
 
 where
 - **[S]** - relates to SQL Server / MssqlMerge
