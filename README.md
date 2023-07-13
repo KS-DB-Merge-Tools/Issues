@@ -46,4 +46,4 @@ where
 
 ## Other useful information
 
-Please describe the steps you've done and what you think should be an **expected result**. Screenshots, database scripts or files would be helpful but we understand that they may contain sensitive information that should not be accessible pulicitely.
+Please describe the steps to reproduce and what you think should be an **expected result**. Screenshots, database scripts or files would be helpful but we understand that they may contain sensitive information that should not be accessible pulicitely.
