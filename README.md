@@ -1,6 +1,6 @@
 # Issues
 
-This is the issue tracker for KS DB Merge Tools. It is for reporting bugs/issues only, not for feature requests. You can write to support@ksdbmerge.tools to discuss feature requests/suggestions or any other technical questions. You can report issues by email as well.
+This is the issue tracker for KS DB Merge Tools. It is for reporting bugs/issues only, not for feature requests. You can write to support@db-merge-tools.net to discuss feature requests/suggestions or any other technical questions. You can report issues by email as well.
 
 You can [check the list of existing issues](https://github.com/KS-DB-Merge-Tools/Issues/issues) or [report a new one](https://github.com/KS-DB-Merge-Tools/Issues/issues/new/choose)
 
